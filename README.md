@@ -1,11 +1,9 @@
 # Exercícios Codewars
 Este repositório foi criado para praticar e desenvolvedor habilidades em python e outras tecnologias no decorrer do processo.
 
-## Para executar a API, você precisa ter:
+## Para executar um script, você precisa ter:
 
 - `Python 3.10 ou superior`
-
-- `Flask instalado`
 
 ## Instalando as dependências
 Recomenda-se utilizar um ambiente virtual para evitar conflitos com outras dependências.
@@ -27,11 +25,9 @@ deactivate
 ## Como Executar
 1 - Após fazer o clone do repositório, navegue até a pasta do projeto:
 ```
-cd /caminho/para/seu/projeto
+1. cd /caminho/do/projeto
+2. py nome_do_script.py
 ```
-
-## Como Testar
-A implementar
 
 ## Licença
 Esse projeto é de código aberto. Você pode usar, modificar e distribuir de acordo com os termos da MIT License.
